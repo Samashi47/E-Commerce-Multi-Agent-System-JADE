@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecom-sma">
+    <output-path>$PROJECT_DIR$/out/artifacts/ecom_sma</output-path>
+    <root id="archive" name="ecom-sma.war">
+      <element id="artifact" artifact-name="sma-ecom:war exploded" />
+    </root>
+  </artifact>
+</component>
